@@ -1,0 +1,3 @@
+com\fabriciospringcloud\microservicios\app\commons\usuarios\models\entity\Role.class
+com\fabriciospringcloud\microservicios\app\commons\usuarios\MicroserviciosCommonsUsuariosApplication.class
+com\fabriciospringcloud\microservicios\app\commons\usuarios\models\entity\Usuario.class
